@@ -1,0 +1,64 @@
+By Indeed Editorial Team
+
+Updated May 24, 2022 | Published October 8, 2021
+
+
+The Command Prompt is a tool that lets users do a variety of tasks from a central location. IT professionals often find this application helpful when completing assignments or projects. It can even be beneficial for average computer users to learn how to use Command Prompt in case they need to troubleshoot. In this article, we discuss what Command Prompt is, the benefits of using this application, how to run a program on Command Prompt and tips to help you use the application.
+
+See your instant resume report on Indeed
+Get recommendations for your resume in minutes
+What is Command Prompt?
+Command Prompt is an application on most Windows computers that directly communicates with the operating system to automate tasks through scripts and batch files. This application is a text-based command-line interpreter that can work like a navigation tool. It's also used to complete advanced administration activities or troubleshoot certain issues in Windows. For example, you can use Command Prompt to see everyone who has used your WiFi connection, trace a possible hacker or possibly fix a file that doesn't open. Using Command Prompt can also give you more control over your computer, including communicating with some programs that communicate exclusively through Command Prompt.
+
+Related: Learn About Being a Computer Programmer
+
+Benefits of running a program on Command Prompt
+Some benefits of using Command Prompt to run programs and complete tasks include saving time and allowing you to fix issues during a system or GUI (Graphical User Interface) application crash. Sometimes using Command Prompt is a much quicker way to access information or tasks. Running a program on Command Prompt also usually requires less memory space than GUI because the program doesn't have to process graphical components, so it also takes less time to run the program. If you have a slow processor, Command Prompt can still work efficiently.
+
+Related: Computer Skills: Definitions and Examples
+
+How to run a program on Command Prompt
+Here is a list of steps to help you run a program on Command Prompt:
+
+1. Open your Start menu and type "cmd" in the search box
+Locate your Start menu in the bottom left corner of your screen and click on it. In the white search box next to the Windows icon, type "cmd." Command Prompt is the first search result.
+
+2. Click on Command Prompt to open the application and type your first command
+Right-click on the application and select "Run as administrator," then a new Command Prompt window opens. This opens a black screen with plain text.
+
+3. Determine which program you want to run
+Find the folder with the file you want to run. It's important to mention that Command Prompt can only run programs that are installed in Windows-created folders. You can add a program's folder to the Command Prompt list to run that program within the application.
+
+3. Find the file path of the folder with your exe program
+Type "cd [filepath]" into Command Prompt. This allows you to find the folder that contains the .exe program you want to run. In a File Explorer window, you can open the specific folder and copy the file path located in the address bar at the top of the window by pressing C and Ctrl. For example, you can run Google Chrome by locating a folder titled Google Chrome in your Program Files. The file path for that file is "C:\Program Files\Google."
+
+4. Replace "[filepath]" in the Command Prompt window with the file path you've copied
+Replacing this file path allows you to run both commands and the desired program. You can then press the Enter key on your keyboard. This takes you to the selected file path in Command Prompt.
+
+5. Type "start [filename.exe]" into Command Prompt, replacing "filename" with the name of your selected file
+Replace "[filename.exe]" with your program's name. This allows you to run your program from the file path. For example, you can run Google Chrome by typing "Start Chrome.exe." You can then hit "Enter" on your keyboard, and the program starts running.
+
+Related: Learn About Being a Software Engineer
+
+Tips for using Command Prompt
+Here are a few tips to help you use Command Prompt:
+
+Make sure you're running Command Prompt as an administrator. This is an important step when using the application because many commands can only be executed by an administrator profile on your computer.
+Easily open Command Prompt by running Windows Run by holding the Windows button and hitting the R button on your keyboard. You can then type "cmd" and press enter, opening Command Prompt.
+If you're unsure of what commands to use, you can type "Help" into Command Prompt. This makes a list appear with different common commands you can use.
+Get more information about a command by typing "/?" at the end. This gives you additional information about changing how that command works.
+Keep your computer clean and issue-free by running "sfc/ scannow" in the Command Prompt window. This System File Checker tool can help you identify and fix issues by scanning all your protected files. It also repairs broken files to improve performance on your computer.
+Drag and drop folders into Command Prompt to insert a folder's location. You can make identifying a file path easier by dragging a folder into the Command Prompt window.
+Use the Function keys (F1-9) as shortcuts. These buttons at the top of your keyboard can help you reenter commands without having to type them again.
+Common commands to use in Command Prompt
+Here is a list of some commands you can use to interact with Command Prompt:
+
+systeminfo: This displays specific properties and configurations for your computer.
+tasklist: This displays all active tasks and services.
+taskkill: This stops a process or application.
+time: This sets the computer's time.
+type: This displays all the contents within a text file.
+ver: This shows the Windows version on your computer.
+verify: This tells Windows whether your files are written correctly to a disk.
+xcopy: This copies files and directory trees.
+Please note that none of the companies mentioned in this article are affiliated with Indeed.
